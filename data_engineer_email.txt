@@ -2,7 +2,7 @@ Dear Hiring Manager,
 
 I am writing to express my interest in the Data Engineer position at ${companyName}. With a background in developing scalable streaming pipelines using AWS, Apache Kafka, and PySpark, I believe I can bring valuable expertise to your team.
 
-In my current role at ${companyName}, I have successfully designed and implemented streaming pipelines, ensuring scalability, reliability, and optimal performance. I played a key role in creating an AI assistant using Gen AI, showcasing my data validation and performance tuning skills.
+In my current role at Brillio, I have successfully designed and implemented streaming pipelines, ensuring scalability, reliability, and optimal performance. I played a key role in creating an AI assistant using Gen AI, showcasing my data validation and performance tuning skills.
 
 I am excited about the opportunity to contribute to your innovative team at ${companyName}. I look forward to the possibility of discussing how my skills align with your needs.
 
